@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Data Entries</string>
+
+    <string name="txt_addnew">Add New Entry</string>
+
+    <string name="txtvw_date">Date</string>
+    <string name="txtvw_lotno">Lot No</string>
+    <string name="txtvw_books">Books</string>
+    <string name="txtvw_amount">Amount</string>
+    <string name="txtvw_comm">Commission</string>
+    <string name="txtvw_tds">TDS</string>
+    <string name="txtvw_ctds">C-TDS</string>
+
+    <string name="edtvw_date">Enter Date dd/mm/yyy</string>
+    <string name="edtvw_lotno">Enter Lot No</string>
+    <string name="edtvw_books">Enter Books</string>
+    <string name="edtvw_amount">Enter Amount</string>
+    <string name="edtvw_comm">Commission</string>
+    <string name="edtvw_tds">TDS</string>
+    <string name="edtvw_ctds">C-TDS</string>
+
+    <string name="btn_calc">Calculate</string>
+    <string name="btn_submit">Submit</string>
+
+
+
 </resources>
