@@ -3,15 +3,15 @@
 
     <string name="txt_addnew">Add New Entry</string>
 
-    <string name="txtvw_date">Date</string>
-    <string name="txtvw_lotno">Lot No</string>
-    <string name="txtvw_books">Books</string>
-    <string name="txtvw_amount">Amount</string>
-    <string name="txtvw_comm">Commission</string>
-    <string name="txtvw_tds">TDS</string>
-    <string name="txtvw_ctds">C-TDS</string>
+    <string name="txtvw_date">Date :</string>
+    <string name="txtvw_lotno">Lot No :</string>
+    <string name="txtvw_books">Books :</string>
+    <string name="txtvw_amount">Amount :</string>
+    <string name="txtvw_comm">Commission :</string>
+    <string name="txtvw_tds">TDS :</string>
+    <string name="txtvw_ctds">C-TDS :</string>
 
-    <string name="edtvw_date">Enter Date dd/mm/yyy</string>
+    <string name="edtvw_date">Enter dd/mm/yyyy</string>
     <string name="edtvw_lotno">Enter Lot No</string>
     <string name="edtvw_books">Enter Books</string>
     <string name="edtvw_amount">Enter Amount</string>
@@ -20,8 +20,8 @@
     <string name="edtvw_ctds">C-TDS</string>
 
     <string name="btn_calc">Calculate</string>
-    <string name="btn_submit">Submit</string>
+    <string name="btn_reset">Reset</string>
 
-
-
+    <string name="toast_data_added">Data Added Successfully!</string>
+    <string name="toast_data_fail">Data Not Added!</string>
 </resources>

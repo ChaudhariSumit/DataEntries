@@ -3,6 +3,36 @@
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
-    android:layout_height="match_parent">
+        android:layout_height="match_parent">
 
-    </RelativeLayout>
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabadd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="36dp"
+            android:layout_marginEnd="36dp"
+            android:clickable="true"
+            app:backgroundTint="@color/colorAccent"
+            app:fabSize="normal"
+            app:srcCompat="@drawable/ic_add2"
+            app:rippleColor="@android:color/white" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
