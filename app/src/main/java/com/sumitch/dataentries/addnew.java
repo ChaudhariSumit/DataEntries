@@ -51,7 +51,7 @@ public class addnew extends AppCompatActivity {
             @Override
             public void onFocusChange (View v, boolean hasFoucs){
                 if (editlot_no.getText().length()<1) {
-                    editlot_no.setError("Empty");
+                    editlot_no.setError(getString(R.string.edittext_error));
                 }
             }
         });
